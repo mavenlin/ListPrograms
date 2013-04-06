@@ -28,4 +28,5 @@ Things changed:
 
 1. Using the standard method to access Wow6432Node.
 2. More Informations are collected, InstallLocation, Icon and Architecture of the binary (X86 or X64).
-3. In future will include the code to extract Icons.
+3. Qt Wrapper.
+4. Icon is extracted from the icon path, and stored in QPixmap.
